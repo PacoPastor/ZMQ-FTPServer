@@ -11,6 +11,7 @@ En nuestra opción elegida, definimos una serie de instrucciones, para el correc
   - Copiar los ficheros a cualquier otra carpeta del servidor, inclusive donde se encuentre el fichero de ejecución del servidor
   - Mover los ficheros a cualquier otra carpeta del servidor, inclusive donde se encuentre el fichero de ejecución del servidor
   - Eliminar los ficheros a cualquier otra carpeta del servidor, inclusive donde se encuentre el fichero de ejecución del servidor
+
 ---
 
 ####Integrantes

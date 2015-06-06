@@ -39,18 +39,18 @@ $ yaourt python2-pyzmq
 ```
 
 Una vez instalado las dependencias, pasamos a la ejecución de las instrucciones. Así, para la ejecución de la variante local, sería:
-- ```sh
+```sh
 $ python2.7 clienteftp
 ```
-- ```sh
+```sh
 $ python2.7 serverftp
 ```
 
 y para la ejecución de la variante remota, sería:
-- ```sh
+```sh
 $ python2.7 clienteftp[IP:puerto]
 ```
-- ```sh
+```sh
 $ python2.7 serverftp
 ```
 ____

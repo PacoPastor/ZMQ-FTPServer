@@ -2,7 +2,7 @@
 ____
 
 
-####Elección escogida: Trasnferencia de archivos
+####Elección escogida: Transferencia de archivos
 
 Para este proyecto hemos realizado una conexión cliente-servidor a partir de la tecnología ZeroMQ, en la cúal el cliente dispondrá de una serie de opciones dadas por el servidor, de las cuáles el cliente escribirá una serie de instrucciones y el servidor devolverá la solicitud propuesta. Esta conexión será punto a punto y el cliente se conectará al único servidor a través del único puerto que se habilitará.
 
@@ -22,14 +22,14 @@ En nuestra opción elegida, definimos una serie de instrucciones, para el correc
  
 ____
 ####Variantes del Proyecto
-Al ser el último proyecto de la asignatura, y con la correcta preparación para abordar el problema que nos conscienne, realizamos la resolución del problema de una forma local, pero gracias a la versatilidad de la arquitectura y simpleza de la arquitectura efectuada, hicimos otra versión de carácter remota.
+Al ser el último proyecto de la asignatura, y con la correcta preparación para abordar el problema que nos conscierne, realizamos la resolución del problema de una forma local, pero gracias a la versatilidad de la arquitectura y simpleza de la arquitectura efectuada, hicimos otra versión de carácter remota.
 
 Es decir, permitimos la consulta completa de forma local, que era nuestro proyecto inicial, y además, conseguimos listar los ficheros de una máquina remota.
 
 ___
 ####Ejecución
 Para la ejecución, primero deberemos de instalar los paquetes necesarios, así:
-- Si nos encontramos en un sistema basado en Debian, deberemos de tener instalado el gestor de módulos de aplicaciones de terceros en Python **pip** y en una terminal, escribir
+- Si nos encontramos en un sistema basado en *Debian*, deberemos de tener instalado el gestor de módulos de aplicaciones de terceros en Python **pip** y en una terminal, escribir
 ```sh
 $ pip install pyzmq
 ```

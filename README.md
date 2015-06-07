@@ -55,5 +55,5 @@ $ python2.7 serverftp
 ```
 ____
 ##Recursos
-- ***Cammpus de Sistemas Distribuido:*** https://www.uca.es
+- ***Campus de Sistemas Distribuido:*** https://www.uca.es
 - ***Aprendiendo ZeroMQ:*** http://learning-0mq-with-pyzmq.readthedocs.org/en/latest/

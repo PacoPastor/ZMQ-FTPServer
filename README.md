@@ -10,7 +10,7 @@ En nuestra opción elegida, definimos una serie de instrucciones, para el correc
   - Listar y  visualizar los archivos que se encuentran en la misma carpeta que el servidor
   - Copiar los ficheros a cualquier otra carpeta del servidor, inclusive donde se encuentre el fichero de ejecución del servidor
   - Mover los ficheros a cualquier otra carpeta del servidor, inclusive donde se encuentre el fichero de ejecución del servidor
-  - Eliminar los ficheros a cualquier otra carpeta del servidor, inclusive donde se encuentre el fichero de ejecución del servidor
+  - Eliminar los ficheros de la carpeta del servidor
 
 ---
 

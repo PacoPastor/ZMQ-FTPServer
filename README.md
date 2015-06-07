@@ -2,15 +2,15 @@
 ____
 
 
-####Elección escogida: Transferencia de archivos
+####Opción escogida: Transferencia de archivos
 
-Para este proyecto hemos realizado una conexión cliente-servidor a partir de la tecnología ZeroMQ, en la cúal el cliente dispondrá de una serie de opciones dadas por el servidor, de las cuáles el cliente escribirá una serie de instrucciones y el servidor devolverá la solicitud propuesta. Esta conexión será punto a punto y el cliente se conectará al único servidor a través del único puerto que se habilitará.
+Para este proyecto hemos realizado una conexión cliente-servidor a partir de la tecnología ZeroMQ, en la cual el cliente dispondrá de una serie de opciones dadas por el servidor, de las cuáles el cliente escribirá una serie de instrucciones y el servidor devolverá la solicitud propuesta. Esta conexión será punto a punto y el cliente se conectará al único servidor a través del único puerto que se habilitará.
 
 En nuestra opción elegida, definimos una serie de instrucciones, para el correcto manejo de archivos en el servidor a través de las instrucciones dadas en el cliente, como son:
   - Listar y  visualizar los archivos que se encuentran en la misma carpeta que el servidor
   - Copiar los ficheros a cualquier otra carpeta del servidor, inclusive donde se encuentre el fichero de ejecución del servidor
   - Mover los ficheros a cualquier otra carpeta del servidor, inclusive donde se encuentre el fichero de ejecución del servidor
-  - Eliminar los ficheros a cualquier otra carpeta del servidor, inclusive donde se encuentre el fichero de ejecución del servidor
+  - Eliminar los ficheros de la carpeta del servidor
 
 ---
 
@@ -48,7 +48,7 @@ $ python2.7 serverftp
 
 y para la ejecución de la variante remota, sería:
 ```sh
-$ python2.7 clienteftp[IP:puerto]
+$ python2.7 clienteftp[IP]
 ```
 ```sh
 $ python2.7 serverftp

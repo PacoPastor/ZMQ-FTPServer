@@ -48,7 +48,7 @@ $ python2.7 serverftp
 
 y para la ejecución de la variante remota, sería:
 ```sh
-$ python2.7 clienteftp[IP:puerto]
+$ python2.7 clienteftp[IP]
 ```
 ```sh
 $ python2.7 serverftp
